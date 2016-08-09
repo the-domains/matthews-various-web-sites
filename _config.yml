@@ -1,4 +1,3 @@
-layout_spectrum: 0.7972861896269023
 typography_spectrum: 0.020506417145952582
 color:
   brandStrength: 0.7001017804723233
@@ -11,5 +10,7 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
+layout_spectrum: 0.7972861896269023
 name: matthew's various web sites
+title: VDY Ibiza
 description: Yacht Concierge in Ibiza
